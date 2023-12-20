@@ -1,4 +1,4 @@
-# IMDB-Movies-Analysis (Work in Progress)
+# IMDB Movies Analysis [Work in Progress]
 
 ## Overview
 This repository contains an analysis of the IMDB Movies Dataset, spanning the years from 1888 to 2023. The primary goal is to uncover interesting patterns and insights about movie trends over this extensive period.
